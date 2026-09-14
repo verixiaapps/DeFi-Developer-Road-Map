@@ -1023,6 +1023,7 @@
 - [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 - [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 - [ERCx](https://ercx.runtimeverification.com) - Testing tool with a Web interface to test conformance and properties of ERC-20 tokens. Based on Foundry forge.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 #### Transaction Visualization, Scoring & Tracking:
 
